@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ma. Emmaliza S. Orillano | Geodetic Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #224957;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #224957;
+    }
+    .project {
+      background: #fff;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      background-color: #224957;
+      color: white;
+      padding: 20px;
+    }
+    a {
+      color: #224957;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ma. Emmaliza S. Orillano</h1>
+    <p>Licensed Geodetic Engineer | Survey Specialist | CAD Drafter</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a Geodetic Engineer from Visayas State University with experience in field surveying and CAD drafting. I gained my experience through our family-owned firm, Orillano Surveying and Engineering Services, and I’m now seeking to grow with innovative companies like Italpinas Development Corporation.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills & Services</h2>
+    <ul>
+      <li>Topographic and Subdivision Surveys</li>
+      <li>AutoCAD & Civil 3D Drafting</li>
+      <li>Survey Data Processing</li>
+      <li>Permit & Plan Preparation</li>
+      <li>GIS and Remote Sensing (Basic)</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Subdivision Survey – Leyte</h3>
+      <p>Conducted land survey and drafted plans using AutoCAD for a local residential development.</p>
+    </div>
+    <div class="project">
+      <h3>Site Development – LGU Project</h3>
+      <p>Assisted in plotting and field coordination for a government infrastructure project.</p>
+    </div>
+    <div class="project">
+      <h3>Drone Mapping (Academic Research)</h3>
+      <p>Created 3D terrain models using UAV data and GIS tools for land study projects.</p>
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Resume & License</h2>
+    <p><a href="#">Download My Resume (PDF)</a></p>
+    <p>PRC License No.: [Insert License Number]</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: yourname@email.com</p>
+    <p>Phone: +63 9XX XXX XXXX</p>
+    <p>Location: Leyte, Philippines (Willing to relocate)</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ma. Emmaliza S. Orillano. All rights reserved.</p>
+  </footer>
+</body>
+</html>
